@@ -5,7 +5,7 @@
 #### When the PIR sensor detects movement, the device:
 - Triggers an alarm (active buzzer)
 - Increments a digital counter displayed on a dot matrix module
-
+#### The project was developed with a strong focus on object-oriented programming in C++, efficient hardware control, and systematic debugging of both electrical and software issues.
 ## Features
 - Works with multiple components connected to an Arduino via a perfboard (or breadboard)
 - Displays two-digit numbers on a dot matrix module
