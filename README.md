@@ -1,7 +1,10 @@
 # Arduino-Security-Project
 
 ## Overview
-#### This project is a custom Arduino device that I planned, designed, programmed, and soldered entirely myself. It demonstrates hardware-software integration, C++ programming, and problem-solving in building a fully functional electronic project.
+#### This project is a custom Arduino device that I planned, designed, programmed, and soldered entirely myself. It demonstrates hardware-software integration, C++ programming, and problem-solving in building a fully functional electronic project. 
+#### When the PIR sensor detects movement, the device:
+- Triggers an alarm (active buzzer)
+- Increments a digital counter displayed on a dot matrix module
 
 ## Features
 - Works with multiple components connected to an Arduino via a perfboard (or breadboard)
