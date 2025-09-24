@@ -21,9 +21,27 @@
 
 ## Software / Libraries Required
 - Arduino IDE
-- Software file 
-
+- Libraries: LedControl, IRremote, Arduino
+  
 ## How to Run
+- Connect all components to the Arduino
+- Open the Arduino IDE and load the Arduino_Project.ino file
+- Install all required libraries
+- Upload the code to the Arduino board
+
+## How to Use
+- Press power button on remote to turn on device
+- Press 0 to reset counter on display
+- Press VOL- to mute the buzzer
+- Press VOL+ to unmute the buzzer
+- Press power button to turn off device
+
+## Skills Demonstrated / Learned
+- Circuit building with complex electronic components
+- Hardware control via Arduino programming
+- Soldering and assembly of electronic components
+- Debugging both hardware and software issues
+- Independent planning, design, and implementation of a working project
 
 ## Project Phases
 
