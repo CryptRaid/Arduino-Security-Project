@@ -1,13 +1,21 @@
 # Arduino-Security-Project
 
+## Overview
 
-## Hardware Required
-- Arduino nano
+## Features
+
+## Components / Hardware Required
+- Arduino nano (or compatible board)
 - Red LED & Green LED
 - PIR Sensor
 - Active Buzzer
 - Dot Matrix
 
-## Software Required
+## Software / Libraries Required
 - Arduino IDE
 - Software file 
+
+## How to Run
+
+## Project Phases
+
