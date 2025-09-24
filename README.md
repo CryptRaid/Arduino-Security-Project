@@ -38,10 +38,15 @@
 
 ## Skills Demonstrated / Learned
 - Circuit building with complex electronic components
+- Assembling circuit with microscope and tweezers
 - Hardware control via Arduino programming
 - Soldering and assembly of electronic components
 - Debugging both hardware and software issues
 - Independent planning, design, and implementation of a working project
 
-## Project Phases
+## Problems Solved
+- IR receiver module malfunction: Diagnosed with a multimeter, desoldered faulty connection, and resoldered.
+- Two-digit display issue on dot matrix module: Implemented timed switching between digits.
+- Incorrect PIR sensor header pins: Replaced with longer pins for proper soldering.
+- LED connected to invalid analog pin: Resoldered to a correct output pin.
 
