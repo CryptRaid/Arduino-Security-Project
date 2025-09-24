@@ -1,6 +1,7 @@
 # Arduino-Security-Project
 
 ## Overview
+#### This project is a custom Arduino device that I planned, designed, programmed, and soldered entirely myself. It demonstrates hardware-software integration, C++ programming, and problem-solving in building a fully functional electronic project.
 
 ## Features
 
