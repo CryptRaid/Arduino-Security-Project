@@ -25,7 +25,7 @@
   
 ## How to Run
 - Connect all components to the Arduino
-- Open the Arduino IDE and load the Arduino_Project.ino file
+- Open the Arduino IDE and load the Motion_Sensor_Project.ino file
 - Install all required libraries
 - Upload the code to the Arduino board
 
