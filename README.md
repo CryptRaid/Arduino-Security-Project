@@ -4,13 +4,20 @@
 #### This project is a custom Arduino device that I planned, designed, programmed, and soldered entirely myself. It demonstrates hardware-software integration, C++ programming, and problem-solving in building a fully functional electronic project.
 
 ## Features
+- Works with multiple components connected to an Arduino via a perfboard (or breadboard)
+- Displays two-digit numbers on a dot matrix module
+- Uses IR receiver and PIR sensor modules for input detection
+- Fully programmed in C++ using object-oriented principles
 
 ## Components / Hardware Required
 - Arduino nano (or compatible board)
-- Red LED & Green LED
+- Dot Matrix Display Module
+- IR Receiver Module
 - PIR Sensor
 - Active Buzzer
-- Dot Matrix
+- Red and Green LEDs
+- Perfboard, wires, resistors
+- Soldering tools
 
 ## Software / Libraries Required
 - Arduino IDE
